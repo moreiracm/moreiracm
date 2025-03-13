@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! 👋 Seja bem-vindo ao meu GitHub!
 
-<!--
-**moreiracm/moreiracm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Analista de Service Desk** e estou em transição para a área de **Análise de Dados e Business Intelligence**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, onde venho adquirindo conhecimentos em **Excel Avançado, Power BI, SQL e desenvolvimento de software**.
 
-Here are some ideas to get you started:
+### 🚀 O que estou aprendendo:
+- 📊 **Power BI** | Dashboards interativos e análise de dados.
+- 🗄 **SQL** | Manipulação de dados em bancos relacionais.
+- 🔢 **Excel Avançado** | Power Query, Tabelas Dinâmicas e automação.
+- 💻 **Lógica de Programação** | Estruturas de controle e POO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Como me encontrar:
+- www.linkedin.com/in/caroline-moreira-71551b208
+- moreiracaroline78@gmail.com  
+
+Estou em constante aprendizado e animado para iniciar novos projetos. Fique à vontade para conectar-se comigo e compartilhar conhecimentos! 🚀
